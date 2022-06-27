@@ -1,4 +1,4 @@
-# InstagramPage
+# Instagram LandingPage
 
 
-Recriei a página do Instagram com HTML e CSS
+Landing Page do Instagram feita com HTML e CSS.
